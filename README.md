@@ -33,14 +33,14 @@ charting-app/
    ```bash
    git clone https://github.com/vasanth27s/probz.ai-assignment.git
 Navigate to the project directory:
-bash
+
 cd probz.ai-assignment
 Install the dependencies:
 npm install
 Usage
 Start the development server:
-
 npm start
+
 Open your browser and navigate to http://localhost:3000 to view the application.
 Data
 The chart data is stored in public/data.json. Here is an example of the data structure:
